@@ -4,3 +4,4 @@ public class Main {
   }
 }
 Math.max(5, 10);
+if (20 > 18)
